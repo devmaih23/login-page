@@ -47,6 +47,10 @@ body {
     cursor: pointer;
 }
 
+.btn-submit:hover {
+    background-color: #555;
+}
+
 .footer {
     background-color: #333;
     color: white;
